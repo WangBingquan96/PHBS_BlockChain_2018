@@ -8,7 +8,7 @@ The global music industry is a tremendous one. In 2017, the revenues from the in
 (3)Cumbersome royalty management <br>
 (4)Delay In rewards to artists. <br>
 ![](https://github.com/WangBingquan96/PHBS_BlockChain_2018/blob/master/pricture1.gif)  <br>
-More specifically, A report suggests that for every $1,000 of music sold, the average musician gets a paltry $23.40 (just over 2%). To meet the US monthly minimum wage, musicians would need over 188,000 total plays on Apple Music (and even more on the competing platforms). Most of the revenues goes to the intermediaries like music streaming services like Spotify and Apple Music. They centralize the music industry and make it harder for independent musicians to become known and earn from their work. <br>
+More specifically, A report suggests that for every $1,000 of music sold, the average musician gets a paltry $23.40 (just over 2%). To meet the US monthly minimum wage, musicians would need over 188,000 total plays on Apple Music (and even more on the competing platforms). Most of the revenues goes to the intermediaries like music streaming services inlcuding Spotify and Apple Music. They centralize the music industry and make it harder for independent musicians to become known and earn from their work. <br>
 When the blockchain entered the public view, people started to think use blockchain in music industry for its decentralized, immutable and transparent characteristics. 
 ### 2. How music industry is operating 
 First I will introduce how music industry is operating at present and what is the problem which can be solved using blockchain. There are several main participants in music industry including: <br>
