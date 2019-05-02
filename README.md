@@ -52,20 +52,25 @@ Because streaming pay events are frequent and single payment amount is small, pr
 (1) In order to use Ujo, one needs to utilize new software such as MetaMask or cryptocurrency wallets which can be complex and confusing for fresh users. What's worse, cryptocurrencies as most know them are volatile. For musicians that want to make a living, this volatility can be serious (Simon R., 2018).<br>
 (2) It means that mistakes in the code can easily end up losing the involved parties a lot of money when the smart contracts deal with funds. Having no way of altering the code means people have to think way ahead carefully (Anne G., 2016). <br>
 #### (5) Solutions and future development 
-In order to solve the problem of price fluctuations in the Ethereum, they can consider using Dai as the currency of the transaction. A core benefit of Dai is that it brings the stability and utility of money into the future by unlocking the power of a decentralized stablecoin.
+In order to solve the problem of price fluctuations in the Ethereum, they can consider using Dai as the currency of the transaction. A core benefit of Dai is that it brings the stability and utility of money into the future by unlocking the power of a decentralized stablecoin. <br>
+In addition, in order to facilitate the understanding and use of customers, the process of purchasing albums using digital currency should  be completely simplified to purchase in ordinary currency, and the transaction process of converting ordinary currency into digital currency will be automatically executed by the platform. In this case users don't need to be confused by the use of digital currency. For users, there is no difference between using this platform and using Apple music or Spotify. <br>
+To avoid the mistakes in code, the code writing process of smart contracts should be automatically completed by the computer. The platform only needs to provide some packaged APIs to users such as program developers, which will minimize the possibility of contract content errors. Besides, these APIs themselves must also have risk control functions and alert users as soon as a large amount of abnormal funds are found. 
 
 ### Rederence list
+Alexander A. (2018, Jul 3). The Ujo platform: a decentralized music ecosystem. Medium. Retrieved from https://blog.ujomusic.com/the-ujo-platform-a-decentralized-music-ecosystem-e530c31b62bc <br>
+
 Angel D. (2018, Jul 20). Can blockchain technology disrupt the music industry? Medium. Retrieved from https://medium.com/blockstreethq/to-which-extent-can-blockchain-technology-disrupt-the-music-industry-e6182fb5741a  <br>
+
+Anne G. (2016) Insights from Ujo: The Challenges of Building on Ethereum. OFFERZEN. Retrieved from https://www.offerzen.com/blog/insights-from-ujo-the-challenges-of-building-on-ethereum <br>
+
 
 DIGIMARC. (2017). Watermarking technology and blockchains in the music industry. Beaverton, Oregon : Bill Rosenblatt <br>
 
 Preetam R. (2018, Aug 16). How blockchain can be used in the music industry beyond the hype. Medium. Retrieved from https://medium.com/quillhash/how-blockchain-can-be-used-in-the-music-industry-beyond-the-hype-339e1dbf18a7 <br>
 
-Anne G. (2016) Insights from Ujo: The Challenges of Building on Ethereum. OFFERZEN. Retrieved from https://www.offerzen.com/blog/insights-from-ujo-the-challenges-of-building-on-ethereum <br>
+Simon R. (2018, Dec 13). Introducing Ujo portal: making musicians more money. Medium. Retrieved from https://blog.ujomusic.com/introducing-ujo-portal-making-musicians-more-money-9224d808a57a <br>
 
-Alexander A. (2018, Jul 3). The Ujo platform: a decentralized music ecosystem. Medium. Retrieved from https://blog.ujomusic.com/the-ujo-platform-a-decentralized-music-ecosystem-e530c31b62bc <br>
 
 Ujo (2019, Mar 28). Introducing streaming payments for Ujo with connext payment channels and dai. Medium. Retrieved from https://media.consensys.net/introducing-streaming-payments-for-ujo-with-connext-payment-channels-and-dai-16725929fe38 <br>
 
-Simon R. (2018, Dec 13). Introducing Ujo portal: making musicians more money. Medium. Retrieved from https://blog.ujomusic.com/introducing-ujo-portal-making-musicians-more-money-9224d808a57a <br>
 
