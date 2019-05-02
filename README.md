@@ -56,7 +56,7 @@ In order to solve the problem of price fluctuations in the Ethereum, they can co
 In addition, in order to facilitate the understanding and use of customers, the process of purchasing albums using digital currency should  be completely simplified to purchase in ordinary currency, and the transaction process of converting ordinary currency into digital currency will be automatically executed by the platform. In this case users don't need to be confused by the use of digital currency. For users, there is no difference between using this platform and using Apple music or Spotify. <br>
 To avoid the mistakes in code, the code writing process of smart contracts should be automatically completed by the computer. The platform only needs to provide some packaged APIs to users such as program developers, which will minimize the possibility of contract content errors. Besides, these APIs themselves must also have risk control functions and alert users as soon as a large amount of abnormal funds are found. 
 
-### Rederence list
+### Reference list
 Alexander A. (2018, Jul 3). The Ujo platform: a decentralized music ecosystem. Medium. Retrieved from https://blog.ujomusic.com/the-ujo-platform-a-decentralized-music-ecosystem-e530c31b62bc <br>
 
 Angel D. (2018, Jul 20). Can blockchain technology disrupt the music industry? Medium. Retrieved from https://medium.com/blockstreethq/to-which-extent-can-blockchain-technology-disrupt-the-music-industry-e6182fb5741a  <br>
